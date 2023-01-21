@@ -22,7 +22,7 @@ more train files (train_*modelname*_80k.py and train_*modelname_edge*_80k.py) in
          
          
 ### Plot edge PR curves of RINDNet++
-We have released the code and data for plotting the edge PR curves of the above edge detectors [here](https://github.com/MengyangPu/RINDNet-plusplus/tree/main/plot-rind-edge-pr-curves).      
+We have released the code and data for plotting the edge PR curves of the above edge detectors [here](https://github.com/MengyangPu/RINDNet-plusplus/tree/main/plot-rind-edge-pr-curve).      
 
 
 ## Acknowledgments
