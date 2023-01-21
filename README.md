@@ -25,7 +25,7 @@ more train files (train_*modelname*_80k.py and train_*modelname_edge*_80k.py) in
 We have released the code and data for plotting the edge PR curves of the above edge detectors [here](https://github.com/MengyangPu/RINDNet-plusplus/tree/main/plot-rind-edge-pr-curves).      
 
 ### Precomputed Results
-If you want to compare your method with RINDNet and other methods, you can download the precomputed results [here](https://pan.baidu.com/s/1SEQdbibqnntb_fJqiw2VVw) (code: ewco).
+If you want to compare your method with RINDNet and other methods, you can download the precomputed results [here]() (code: ).
 
 ## Acknowledgments
 - The work is partially done while Mengyang was at Stony Brook University.
