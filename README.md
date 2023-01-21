@@ -1,4 +1,7 @@
 # RINDNet-plusplus
+> [RINDNet++: Edge Detection for Discontinuity in Reflectance, Illumination, Normal, and Depth]()             
+> Mengyang Pu, Yaping Huang, Qingji Guan, Zhihao Liu, and Haibin Ling                 
+> *Under review*
 
 ## Usage
 ### Training
@@ -20,9 +23,6 @@ more train files (train_*modelname*_80k.py and train_*modelname_edge*_80k.py) in
 4. Note: The imagenet pretrained vgg16 pytorch model for BDCN can be downloaded in [vgg16.pth](link: https://pan.baidu.com/s/10Tgjs7FiAYWjVyVgvEM0mA) code: ab4g.
          The imagenet pretrained vgg16 pytorch model for HED can be downloaded in [5stage-vgg.py36pickle](https://pan.baidu.com/s/1lQbAnNhymhXPYM2wL0cSnA) code: 9po1.
          
-         
-### Plot edge PR curves of RINDNet++
-We have released the code and data for plotting the edge PR curves of the above edge detectors [here](https://github.com/MengyangPu/RINDNet-plusplus/tree/main/plot-rind-edge-pr-curve).      
 
 
 ## Acknowledgments
