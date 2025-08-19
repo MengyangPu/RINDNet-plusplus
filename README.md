@@ -33,7 +33,8 @@ more train files (train_*modelname*_80k.py and train_*modelname_edge*_80k.py) in
 
 ## Acknowledgments
 - The work is partially done while Mengyang was at Stony Brook University.
-- Thanks to previous open-sourced repo:<br/>
+- We thank the anonymous reviewers for valuable and inspiring comments and suggestions.
+- Thanks to the previous open-sourced repo:<br/>
   [HED-pytorch](https://github.com/xwjabc/hed)<br/>
   [RCF-pytorch](https://github.com/meteorshowers/RCF-pytorch)<br/>
   [BDCN](https://github.com/pkuCactus/BDCN)<br/>
