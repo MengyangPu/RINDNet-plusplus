@@ -1,7 +1,7 @@
 # RINDNet-plusplus
 > [RINDNet++: Edge Detection for Discontinuity in Reflectance, Illumination, Normal, and Depth]()             
 > Mengyang Pu, Yaping Huang, Qingji Guan, Zhihao Liu, and Haibin Ling                 
-> *Under review*
+> *IJCV 2025*
 
 ## Annotation
 Annotation Data is available in [GoogleDrive](https://drive.google.com/drive/folders/15Za2em8WYKvEgiX8v3TD1CwhiYFVGxfD?usp=drive_link).<br/>
